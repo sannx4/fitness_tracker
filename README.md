@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0626ce72-672b-4b3f-9cee-3cdb1636669d)# fitness_tracker
+#fitness_tracker
 
 # Fitness Tracker:Mern Project 
 https://lift-frontend-beryl.vercel.app/login
