@@ -14,13 +14,7 @@ Lift is a modern, ML-integrated fitness and wellness tracker built with **MERN +
 - 🛠️ JWT Authentication (secure login)
 - 🚀 Deployed on Vercel (frontend) and Render (backend + ML model)
 
-- <img width="1440" alt="Screenshot 2025-07-08 at 3 19 15 AM 1" src="https://github.com/user-attachments/assets/86fb5513-20cb-4736-b7e4-0224dc6fe9c4" />
 
-<img width="1440" alt="Screenshot 2025-07-08 at 3 19 22 AM" src="https://github.com/user-attachments/assets/11c92885-09bb-44b0-9343-e239fa114a9a" />
-
-<img width="1440" alt="Screenshot 2025-07-08 at 3 19 53 AM" src="https://github.com/user-attachments/assets/0c3038c5-3214-4f4e-aee4-e6a276f8dfc2" />
-
-<img width="1440" alt="Screenshot 2025-07-08 at 3 19 59 AM" src="https://github.com/user-attachments/assets/117be915-4afc-4119-a9df-7557aa704b56" />
 
 
 
