@@ -16,6 +16,11 @@ Lift is a modern, ML-integrated fitness and wellness tracker built with **MERN +
 
 
 
+Drive link for the full project file:
+https://drive.google.com/file/d/1A9YChmqRxq94gy4Ychw-lIvzM8gZPd-V/view?usp=drive_link
+
+drive link for the video:
+https://drive.google.com/file/d/17JEH-pUELdwdRv7JhxsOM0Au1dBERchD/view?usp=drive_link
 
 
 
@@ -77,6 +82,7 @@ Visit http://localhost:3000 to view the app.
 Frontend: https://vercel.com/sanjays-projects-58339066/lift-frontend
 
 Backend: https://lift-backend-bmpe.onrender.com
+
 
 ML Model: https://lift-mlmodel.onrender.com
 
