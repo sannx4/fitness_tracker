@@ -22,6 +22,14 @@ https://drive.google.com/file/d/1A9YChmqRxq94gy4Ychw-lIvzM8gZPd-V/view?usp=drive
 drive link for the video:
 https://drive.google.com/file/d/17JEH-pUELdwdRv7JhxsOM0Au1dBERchD/view?usp=drive_link
 
+🌐 Live Deployment
+Frontend: https://vercel.com/sanjays-projects-58339066/lift-frontend
+
+Backend: https://lift-backend-bmpe.onrender.com
+
+
+ML Model: https://lift-mlmodel.onrender.com
+
 
 
 
@@ -86,5 +94,8 @@ Backend: https://lift-backend-bmpe.onrender.com
 
 ML Model: https://lift-mlmodel.onrender.com
 
-Credits
-Made with ❤️ by Sanjay M
+done by
+Sanjay M 22BIT0518
+Namandip Raj 22BCE11371
+Chirag Choudhary	22BCE10993
+Snehil Kumar Amber 22BCE11225
