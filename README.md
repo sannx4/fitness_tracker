@@ -28,11 +28,15 @@ Frontend: https://vercel.com/sanjays-projects-58339066/lift-frontend
 
 Backend: https://lift-backend-bmpe.onrender.com
 
-
 ML Model: https://lift-mlmodel.onrender.com
 
+git link for frontend:
 https://github.com/sannx4/lift-frontend
+
+git link for backend:
 https://github.com/sannx4/lift-backend.git
+
+git link for mlmodel:
 https://github.com/sannx4/lift-mlmodel.git
 
 ---
